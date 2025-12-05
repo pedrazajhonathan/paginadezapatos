@@ -145,14 +145,14 @@ body{
     }
     .padre_zapatos{
         position: absolute;
-        bottom: 10%;
-        width: 100vw;
+        bottom: 4%;
+        width: 100%;
         height: 30%;
         overflow: hidden;
         overflow-x: scroll;
         display: flex;
         align-items: center;
-        justify-content: center;
+       
         left: 0;
     }
     .padre_img img{
