@@ -145,8 +145,8 @@ body{
     }
     .padre_zapatos{
         position: absolute;
-        bottom: 4%;
-        width: 100%;
+        bottom: 10%;
+        width: 100vw;
         height: 30%;
         overflow: hidden;
         overflow-x: scroll;
