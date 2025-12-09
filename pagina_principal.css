@@ -274,16 +274,7 @@ body{
     color: black;
     text-align: center;
 }
-@keyframes entrada{
-    from{
-        opacity: .4;
-        scale: .7;
-    }
-    to{
-        opacity: 1;
-        scale: 1;
-    }
-}
+
 
 /* haciendo el responsive de la seccion 1*/
 
